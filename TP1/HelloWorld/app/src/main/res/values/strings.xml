@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World V2</string>
+    <string name="activity_hello_world">Hello Android World!</string>
+    <string name="activity_first_app">My First App!</string>
+    <string name="activity_img_bochi_alt">It\'s a rock! Bocchi the rock!</string>
+    <string name="activity_oncreate_msg">Activity %1$s onCreate</string>
+</resources>
