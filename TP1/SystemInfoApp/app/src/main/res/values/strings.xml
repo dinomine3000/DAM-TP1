@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SystemInfoApp</string>
+    <string name="system_info_msg">
+        Manufacturer: %s\n
+        Model: %s\n
+        Brand: %s\n
+        Type: %s\n
+        User: %s\n
+        Base: %s\n
+        Incremental: %s\n
+        SDK: %s\n
+        Version Code: %s\n
+        Display: %s
+    </string>
+</resources>
