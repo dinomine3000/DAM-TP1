@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         textView.text = getString(R.string.system_info_msg,
             android.os.Build.MANUFACTURER, android.os.Build.MODEL, android.os.Build.BRAND,
             android.os.Build.TYPE, android.os.Build.USER, android.os.Build.VERSION_CODES.BASE,
-            android.os.Build.VERSION.INCREMENTAL, android.os.Build.VERSION.SDK_INT, android.os.Build.VERSION_CODES.R,
+            android.os.Build.VERSION.INCREMENTAL, android.os.Build.VERSION.SDK_INT, android.os.Build.VERSION.RELEASE,
             android.os.Build.DISPLAY)
     }
 }
