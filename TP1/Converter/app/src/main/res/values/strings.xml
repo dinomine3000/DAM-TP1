@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="select_type">Select Conversion Type</string>
+    <string name="select_from">Select From Type</string>
+    <string name="select_to">Select To Type</string>
+    <string name="result_is">Result is %1$f %2$s</string>
+    <string name="input_hint">Input here:</string>
+    <string name="output_blank">Result is</string>
+</resources>
